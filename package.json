@@ -47,7 +47,7 @@
     "styled-components": "^4.2.0",
     "svg2pdf.js": "^2.2.1",
     "usehooks-ts": "^2.9.1",
-    "yarn": "^1.22.18"
+    "yarn": "^2.4.3"
   },
   "devDependencies": {
     "@github/markdownlint-github": "^0.3.0",
