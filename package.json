@@ -54,7 +54,7 @@
     "@primer/figma-images": "^0.1.2",
     "esm": "^3.2.25",
     "fast-glob": "^3.3.2",
-    "markdownlint-cli2": "^0.5.1",
+    "markdownlint-cli2": "^0.14.0",
     "markdownlint-cli2-formatter-pretty": "^0.0.3",
     "mustache": "^4.2.0",
     "path-browserify": "^1.0.1"
