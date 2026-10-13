@@ -6751,9 +6751,9 @@ extsprintf@1.3.0, extsprintf@^1.2.0:
   integrity sha512-11Ndz7Nv+mvAC1j0ktTa7fAb0vLyGGX+rMHNBYQviQDGU0Hw7lhctJANqbPhu9nV9/izT/IntTgZ7Im/9LJs9g==
 
 fast-copy@^2.1.0:
-  version "2.1.7"
-  resolved "https://registry.npmjs.org/fast-copy/-/fast-copy-2.1.7.tgz"
-  integrity sha512-ozrGwyuCTAy7YgFCua8rmqmytECYk/JYAMXcswOcm0qvGoE3tPb7ivBeIHTOK2DiapBhDZgacIhzhQIKU5TCfA==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/fast-copy/-/fast-copy-2.2.0.tgz#702ffefa69c44415010b94a950b8297e1e4623df"
+  integrity sha512-+T1bBiRiRGn7aKFqD0FEebYEzYgqK/uOlKCy2stsAgqSRI4T7nxmoTd1i8XmaGXp9B47yYXvx+V65yoz3DFAUw==
 
 fast-deep-equal@^3.1.1, fast-deep-equal@^3.1.3:
   version "3.1.3"
